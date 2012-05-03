@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Voronoi.Net", "Voronoi.Net\Voronoi.Net.csproj", "{22BB8F6F-186A-4229-A8E9-96A5227D68FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Voronoi.Net.Test", "Voronoi.Net.Test\Voronoi.Net.Test.csproj", "{5576C85A-5B35-46C5-9D60-87E5F00D8B9A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{338C5549-C183-43A5-80EB-C7ABB0EF773B}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22BB8F6F-186A-4229-A8E9-96A5227D68FA}.Debug|x86.ActiveCfg = Debug|x86
+		{22BB8F6F-186A-4229-A8E9-96A5227D68FA}.Debug|x86.Build.0 = Debug|x86
+		{22BB8F6F-186A-4229-A8E9-96A5227D68FA}.Release|x86.ActiveCfg = Release|x86
+		{22BB8F6F-186A-4229-A8E9-96A5227D68FA}.Release|x86.Build.0 = Release|x86
+		{5576C85A-5B35-46C5-9D60-87E5F00D8B9A}.Debug|x86.ActiveCfg = Debug|x86
+		{5576C85A-5B35-46C5-9D60-87E5F00D8B9A}.Debug|x86.Build.0 = Debug|x86
+		{5576C85A-5B35-46C5-9D60-87E5F00D8B9A}.Release|x86.ActiveCfg = Release|x86
+		{5576C85A-5B35-46C5-9D60-87E5F00D8B9A}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
